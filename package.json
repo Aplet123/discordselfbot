@@ -1,0 +1,36 @@
+{
+  "name": "selfbot",
+  "version": "1.0.0",
+  "description": "A Discord selfbot.",
+  "main": "selfbot.js",
+  "scripts": {
+    "test": "echo \"lolroflcopter\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aplet123/discordselfbot.git"
+  },
+  "keywords": [
+    "discord",
+    "selfbot"
+  ],
+  "author": "Aplet123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aplet123/discordselfbot/issues"
+  },
+  "homepage": "https://github.com/Aplet123/discordselfbot#readme",
+  "dependencies": {
+    "lodash": "^4.7.4",
+    "chalk": "^1.1.3",
+    "request": "^2.79.0",
+    "discord.js": "^11.0.0",
+    "saltjs": "Aplet123/saltjs",
+    "sugarcmds": "PgBiel/sugarcmds",
+    "cheerio": "^0.22.0",
+    "moment": "^2.17.1",
+    "youtube-node": "^1.3.0",
+    "js-beautify": "^1.6.8",
+    "html-entities": "^1.2.0"
+  }
+}
